@@ -1,5 +1,5 @@
 # **JAVA**
-Includes **Data Structure Java Code** implementations such as; Arrays, Maps, LinkedList, Stacks, Queues,Lists and Hash Functions.
+Includes **Data Structure Java Code** implementations of classes such as; Arrays, Maps, LinkedList, Stacks, Queues,Lists and Hash Functions.
 
 Notes- 
 
